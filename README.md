@@ -49,8 +49,8 @@ To run the game locally, follow these steps:
 
 Include some screenshots of your game to give users a preview of what it looks like.
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](Rock-Paper-Scissor/Screenshot 2024-06-29 121859.png)
+![Screenshot 2](Rock-Paper-Scissor/Screenshot 2024-06-29 121913.png)
 
 ## Contributing
 
