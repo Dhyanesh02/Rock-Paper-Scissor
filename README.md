@@ -49,8 +49,9 @@ To run the game locally, follow these steps:
 
 Include some screenshots of your game to give users a preview of what it looks like.
 
-![Screenshot 1](Rock-Paper-Scissor/Screenshot 2024-06-29 121859.png)
-![Screenshot 2](Rock-Paper-Scissor/Screenshot 2024-06-29 121913.png)
+![screenshot](https://github.com/Dhyanesh02/Rock-Paper-Scissor/blob/3fb88a005ac9096b7a0c9f7e62826f426c760f92/Rock-Paper-Scissor/Screenshot%202024-06-29%20121913.png)
+![screenshot](https://github.com/Dhyanesh02/Rock-Paper-Scissor/blob/3fb88a005ac9096b7a0c9f7e62826f426c760f92/Rock-Paper-Scissor/Screenshot%202024-06-29%20121859.png)
+
 
 ## Contributing
 
