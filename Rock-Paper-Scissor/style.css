@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1{
+  color: rgb(0, 4, 7);
+  background-color:#5f9ea0;
+  margin: 1rem 1rem 1rem 1rem;
+  height: 3rem;
+  line-height: 3rem;
+  box-shadow: 2px 1px 1px 2px;
+}
+.choices{
+  margin-top: 5rem;
+  display: flex;
+  gap: 2rem;
+  justify-content:center;
+  align-content: center;
+}
+.choice{
+  width: 165px;
+  height: 165px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+.choice:hover{
+  cursor:pointer;
+  background-color: #4a8a92;
+    /* A slightly different color for hover effect */
+    transform: scale(1.10);
+    /* Slightly increase the size on hover */
+}
+.choice:active {
+  background-color: #3b6f75;
+  /* Even darker color for active effect */
+  transform: scale(0.95);
+  /* Slightly reduce the size on click */
+}
+
+
+img{
+  width: 155px;
+  height: 155px;
+  object-fit: cover;
+  border-radius: 5%;
+}
+.score-board{
+  margin-top: 5rem;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  font-size: 2rem;
+  gap:3rem;
+}
+#user-score,#comp-score{
+  font-size: 4rem;
+}
+.msg-container{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#msg{
+  font-size: 2rem;
+  background-color:cadetblue;
+  display: inline;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.replay-button {
+  font-size: 1rem;
+  background-color: cadetblue;
+  display: inline;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.replay-button:hover {
+  cursor: pointer;
+  background-color: #4a8a92; /* A slightly different color for hover effect */
+  transform: scale(1.10); /* Slightly increase the size on hover */
+}
+.replay-button:active {
+  background-color: #3b6f75;
+  /* Even darker color for active effect */
+  transform: scale(0.95);
+  /* Slightly reduce the size on click */
+}
